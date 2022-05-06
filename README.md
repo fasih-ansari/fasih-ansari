@@ -1,7 +1,7 @@
 Hi 👋 My name is Fasih Ur Rehman Ansari
 =======================================
 
-Web Developer
+Web Developer | Database Designer
 -------------
 
 I am a Software Engineering Undergrad with a keen interest in emerging technologies & with a notion to develop custom software solutions for the betterment of the society :)
